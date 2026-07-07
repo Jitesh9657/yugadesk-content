@@ -1,6 +1,6 @@
 ---
 title: "Image to PDF: Why People Convert Photos Into PDF Documents"
-date: "2026-05-20"
+date: "2026-07-07"
 excerpt: "Learn why people convert images into PDF files, when PDF is a better choice than JPG or PNG and how image-to-PDF conversion helps with sharing, printing and online applications."
 category: "Tools"
 ---
