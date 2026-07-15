@@ -1,6 +1,6 @@
 ---
 title: "Why Investors Stop Their SIPs (And How to Stay Consistent)"
-date: "2026-05-20"
+date: "2026-07-15"
 excerpt: "Learn why many investors stop their SIP investments too early, common mistakes beginners make and why consistency plays an important role in long-term investing."
 category: "Finance"
 ---
