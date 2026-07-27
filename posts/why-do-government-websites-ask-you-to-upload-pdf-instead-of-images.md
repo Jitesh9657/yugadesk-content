@@ -1,6 +1,6 @@
 ---
 title: "Why Do Government Websites Ask You to Upload PDF Instead of Images?"
-date: "2026-05-20"
+date: "2026-07-27"
 excerpt: "Learn why many government websites require PDF uploads instead of images, the advantages of PDF documents and how to prepare files for online applications."
 category: "Tools"
 ---
