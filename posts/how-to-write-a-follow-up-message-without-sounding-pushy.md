@@ -2,7 +2,7 @@
 title: "How to Write a Follow-Up Message Without Sounding Pushy"
 date: "2026-08-04"
 excerpt: "Learn how to write polite and professional follow-up messages for jobs, clients, interviews and business communication without sounding rude or impatient."
-category:"Tools"
+category: "Tools"
 ---
 
 Waiting for a response can be frustrating. Whether you've applied for a job, sent a proposal to a client or emailed a business contact, there often comes a point where you wonder:
